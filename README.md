@@ -1,4 +1,5 @@
 ## T-MVVM 努力打造简单实用的开发框架
+引言：[给大家推荐个开源项目 : T-MVVM](https://mp.weixin.qq.com/s/Gzuf8KUqWReJWJv0mYX8XQ)
 
 ## 艺术帮是一款艺术图片应用，采用LiveData+ViewModel+RxJava+okHttp+Retrofit+Glide架构的项目,仅用于学习交流，不断完善中<br/>
    项目github地址:<https://github.com/SelfZhangTQ/T-MVVM> <br/>
